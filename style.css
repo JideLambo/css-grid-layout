@@ -21,17 +21,12 @@ body {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-auto-rows: minmax(260px, auto);
-    grid-gap: 5px;
+    grid-gap: 15px;
 }
 
 /* step 4 */
 .wrapper {
     background-size: cover;
-
-    /* display: flex;
-    flex-direction: column;
-    justify-content: flex-end; */
-
     position: relative;
     z-index: 2;
 
