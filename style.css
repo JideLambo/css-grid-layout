@@ -109,7 +109,6 @@ p {
 .bg5 {
     background: url('./img/img5.jpg');
 }
-
 @media only screen and (min-width: 320px) and (max-width: 414px) {
     .gridWrapper {
         grid-template-columns: 1fr;
